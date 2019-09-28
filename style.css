@@ -17,3 +17,9 @@ body {
     left: 400px;
     position: absolute;
 }
+
+#magnifying-glass {
+    top: 5px;
+    left: 5px;
+    position: absolute;
+}
