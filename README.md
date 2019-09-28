@@ -10,3 +10,4 @@ This is my first HTML project. I am hoping to gain some experience with using HT
 
 ## See the result
 https://robinsal.github.io
+Note: This is only guaranteed to render correctly on a computer using Firefox 69.0.1
