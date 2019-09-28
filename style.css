@@ -1,3 +1,16 @@
 body {
     background-color: white;
 }
+
+.logo-placement {
+    top: 250px;
+    left: 500px;
+    position: absolute;
+    visibility: show;
+}
+
+#search-box {
+    width: 200px;
+    height: 30px;
+    background: blue;
+}
